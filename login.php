@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-<form action="process_login.site" method="p">
+<form action="process_login.site" method="post">
     First Name<input type="text" name="firstName" required>
     Last Name<input type="text" name="lastName" required>
     Email Adress<input type="email" name="email" required>
